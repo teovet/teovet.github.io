@@ -3,18 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://teoninfo.info/categories/</loc>
+    <loc>https://www.teoninfo.info/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://teoninfo.info/tags/</loc>
+    <loc>https://www.teoninfo.info/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.teoninfo.info/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://teoninfo.info/</loc>
-    <priority>0</priority>
+    <loc>https://www.teoninfo.info/</loc>
   </url>
   
 </urlset>

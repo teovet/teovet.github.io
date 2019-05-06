@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teodor Bankovic - Profesionalni veterinar ninfoman</title>
-    <link>http://teoninfo.info/</link>
-    <description>Recent content on Teodor Bankovic - Profesionalni veterinar ninfoman</description>
+    <title>Teodor Banković - veterinar ⚕️ on Teodor Bankovic - Veterinar</title>
+    <link>https://www.teoninfo.info/</link>
+    <description>Recent content in Teodor Banković - veterinar ⚕️ on Teodor Bankovic - Veterinar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://teoninfo.info/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.teoninfo.info/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://www.teoninfo.info/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.teoninfo.info/contact/</guid>
+      <description> Your Name Email Address An email address is required.  Message   </description>
+    </item>
     
   </channel>
 </rss>
